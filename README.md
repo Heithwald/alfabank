@@ -1,3 +1,5 @@
 # alfabank
 
-Custom branch for gh-pages
+Кастомая ветка gh-pages
+
+Деплой доступен по ссылке: https://heithwald.github.io/alfabank/
