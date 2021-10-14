@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/alfabank/static/css/main.f6fa67ef.chunk.css",
+    "main.js": "/alfabank/static/js/main.9801bccf.chunk.js",
+    "main.js.map": "/alfabank/static/js/main.9801bccf.chunk.js.map",
+    "runtime-main.js": "/alfabank/static/js/runtime-main.292b3d08.js",
+    "runtime-main.js.map": "/alfabank/static/js/runtime-main.292b3d08.js.map",
+    "static/js/2.8dffb216.chunk.js": "/alfabank/static/js/2.8dffb216.chunk.js",
+    "static/js/2.8dffb216.chunk.js.map": "/alfabank/static/js/2.8dffb216.chunk.js.map",
+    "index.html": "/alfabank/index.html",
+    "static/css/main.f6fa67ef.chunk.css.map": "/alfabank/static/css/main.f6fa67ef.chunk.css.map",
+    "static/js/2.8dffb216.chunk.js.LICENSE.txt": "/alfabank/static/js/2.8dffb216.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.292b3d08.js",
+    "static/js/2.8dffb216.chunk.js",
+    "static/css/main.f6fa67ef.chunk.css",
+    "static/js/main.9801bccf.chunk.js"
+  ]
+}
